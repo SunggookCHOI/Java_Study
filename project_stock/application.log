@@ -1,0 +1,7 @@
+[2019-07-16 11:45:57]  INFO (service.Service - getClothes:41) - find product슬림피트데미지진
+[2019-07-16 11:45:57]  INFO (service.Service - getCustomer:29) - find customer 최성국
+[2019-07-16 11:45:57]  INFO (service.Service - getClothes:41) - find product슬림피트데미지진
+[2019-07-16 11:45:57]  INFO (service.Service - changeStock:95) - change stock of product 슬림피트데미지진(100)
+[2019-07-16 11:45:57]  INFO (service.Service - getCustomer:29) - find customer 최성국
+[2019-07-16 11:45:57]  INFO (service.Service - getAmounts:58) - print amount of customer최성국
+[2019-07-16 11:45:57]  INFO (service.Service - getCustomer:29) - find customer 최성국
